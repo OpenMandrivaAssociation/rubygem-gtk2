@@ -14,9 +14,11 @@ BuildRequires:	rubygems
 BuildRequires:  rubygem(gdk_pixbuf2)
 BuildRequires:  rubygem(atk)
 BuildRequires:  rubygem(pango)
+BuildRequires:	rubygem(cairo)
 BuildRequires:  rubygem-atk-devel
 BuildRequires:  rubygem-glib2-devel
 BuildRequires:  rubygem-pango-devel
+BuildRequires:	rubygem-cairo-devel
 BuildRequires:  ruby-devel
 BuildRequires:  pkgconfig(gtk+-2.0)
 Obsoletes:      ruby-gtk2
