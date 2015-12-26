@@ -1,4 +1,5 @@
 removed_sources:
   gtk2-2.2.0.gem: 45f4c52620f9ac008eb2d5fcb8df6b9dc5cc8da3
-sources:
   gtk2-2.2.4.gem: 8485c1f08b8c20cc957b689ebbd312fb1ec76a4c
+sources:
+  gtk2-3.0.7.gem: e12b28f27f774fb160caa789b506881f0c53e04d
